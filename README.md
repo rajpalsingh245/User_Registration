@@ -46,5 +46,5 @@ If you'd like to contribute to this project, feel free to fork the repository an
 *Create a pull request.</br>
 
 
-## [License](/.LICENSE) 
-This project is licensed under the MIT License - see the [License](/.LICENSE) file for details.
+## [License](.License) 
+This project is licensed under the MIT License - see the [License](.License) file for details.
