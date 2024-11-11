@@ -23,7 +23,7 @@ A simple user registration application built with HTML, CSS, and vanilla JavaScr
    git clone https://github.com/rajpalsingh245/User_Registration.git
 
 
- <b>Usage</b></br>
+ <b>USAGE:</b></br>
 ## Register a New User:
 Fill in the "Name", "Email", and "Date of Birth" fields.</br>
 Click Submit to add the user to the list.</br>
